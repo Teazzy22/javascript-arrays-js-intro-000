@@ -5,6 +5,3 @@ function addElementToBeginningOfArray(array, element) {
   chocolateBars.upshift(element);
   return chocolateBars;
 }
-function destructivelyAddElementToBeginningOfArray() {
-
-}
