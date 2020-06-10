@@ -1,2 +1,2 @@
 var chocolateBars = ['snickers', 'hundred grand', 'kitkat', 'skittles'];
-['recee\'s', ...chocolateBars]
+chocolateBars = ['recee\'s', ...chocolateBars]
