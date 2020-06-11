@@ -7,5 +7,3 @@ function addElementToBeginningOfArray(array,element) {
 
   chocolateBars.unshift(element);
 }
-
-addElementToBeginningOfArray();
