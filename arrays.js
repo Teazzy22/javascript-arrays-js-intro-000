@@ -8,4 +8,5 @@ function addElementToBeginningOfArray(array,element) {
   chocolateBars.unshift(element);
   return chocolateBars
 }
-chocolateBars;
+
+addElementToBeginningOfArray();
