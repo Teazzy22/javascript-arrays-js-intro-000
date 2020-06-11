@@ -2,9 +2,9 @@ var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
 
 
-//elements.chocolateBars((element) => {
-//return element.length;
-
+chocolateBars.map((element) => {
+return element.length;
+}
 
 //function addElementToBeginningOfArray(array,element) {
   //var array = chocolateBars;
