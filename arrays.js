@@ -1,10 +1,6 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-
-
-chocolateBars.map((element) => {
-return element.length;
-}
+chocolateBars.unshift('foo')
 
 //function addElementToBeginningOfArray(array,element) {
   //var array = chocolateBars;
