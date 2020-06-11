@@ -9,11 +9,11 @@ function addElementToBeginningOfArray(array, element) {
 
 
 
-//function addElementToBeginningOfArray(array,element) {
-  //var array = chocolateBars;
-  //element;
-//  element = 'foo';
-//  array.unshift(element)
+function destructivelyAddElementToBeginningOfArray(array,element) {
+  var array = chocolateBars;
+  element;
+  element = 'foo';
+  array.unshift(element)
 
-//  return chocolateBars
-//}
+  return chocolateBars
+}
